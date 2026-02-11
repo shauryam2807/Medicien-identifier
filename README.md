@@ -51,7 +51,7 @@ This project was built using a modern, robust full-stack architecture:
 ### **1. Landing Page (Before Execution)**
 *The clean, welcoming interface ready for user upload.*
 
-Screenshot (341).png
+![image alt](https://github.com/shauryam2807/Medicien-identifier/blob/main/Screenshot%20(341).png?raw=true)
 
 ### **2. Analysis Results (After Running)**
 *The application identifying a medicine and displaying detailed safety information.*
