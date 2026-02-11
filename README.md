@@ -56,7 +56,7 @@ This project was built using a modern, robust full-stack architecture:
 ### **2. Analysis Results (After Running)**
 *The application identifying a medicine and displaying detailed safety information.*
 
-Screenshot (344).png
+![image_url](https://github.com/shauryam2807/Medicien-identifier/blob/main/Screenshot%20(344).png?raw=true)
 
 ---
 
