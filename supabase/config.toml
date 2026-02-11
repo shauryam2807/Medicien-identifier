@@ -1,0 +1,4 @@
+project_id = "qjjzwtojhrwriegxliru"
+
+[functions.identify-medicine]
+verify_jwt = false
