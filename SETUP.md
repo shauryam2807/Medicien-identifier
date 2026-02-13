@@ -7,8 +7,8 @@
     ```bash
     npm install -g supabase
     ```
-3.  **Google Gemini API Key**: [Get it here](https://aistudio.google.com/)
-4.  **Supabase Account**: [Sign up](https://supabase.com/)
+3.  **Google Gemini API Key**: [Get it here]
+4.  **Supabase Account**: [Sign up]
 
 ---
 
